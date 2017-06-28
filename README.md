@@ -1,9 +1,11 @@
+# Youtube Video player built with React
+
 ### To run the video player
 
 ```
-> clone this repo
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-> app will be running in the browser on localhost:8080
+1. Clone this repo
+2. cd ReduxSimpleStarter
+3. npm install
+4. npm start
+(App will be running in the browser on localhost:8080)
 ```
